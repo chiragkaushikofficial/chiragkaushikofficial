@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1AfVFhl2-345bpdtA_nUvKyhdGCtmkWxm/view?usp=sharing)
+[![MasterHead](https://media1.thehungryjpeg.com/thumbs2/ori_3751672_6zjhvvwa8416z00x5r5x75t6ihp0ms19m0c8r0g6_data-scientist-worker-minimal-infographic-banner-vector.jpg)](https://media1.thehungryjpeg.com/thumbs2/ori_3751672_6zjhvvwa8416z00x5r5x75t6ihp0ms19m0c8r0g6_data-scientist-worker-minimal-infographic-banner-vector.jpg)
 <h1 align="center">Hi 👋, I'm Chirag Kaushik</h1>
 <h3 align="center">A Data Scientist | 3x AWS Certified | IBM Certified Data Science Professional | AWS Academy Graduate - Data Analytics, Machine Learning and AI</h3>
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"

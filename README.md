@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D16AQFjQTPTp4c82A/profile-displaybackgroundimage-shrink_350_1400/0/1676210222336?e=1714608000&v=beta&t=aWnN_G31w2pmqLd1Z5ZjNMwNaCw9oYB3BzgnXThtoiU)](https://media.licdn.com/dms/image/D4D16AQFjQTPTp4c82A/profile-displaybackgroundimage-shrink_350_1400/0/1676210222336?e=1714608000&v=beta&t=aWnN_G31w2pmqLd1Z5ZjNMwNaCw9oYB3BzgnXThtoiU)
 <h1 align="center">Hi 👋, I'm Chirag Kaushik</h1>
 <h3 align="center">A Data Scientist | 3x AWS Certified | IBM Certified Data Science Professional | AWS Academy Graduate - Data Analytics, Machine Learning and AI</h3>
-<img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragkaushikofficial&label=Profile%20views&color=0e75b6&style=flat" alt="chiragkaushikofficial" /> </p>
 
